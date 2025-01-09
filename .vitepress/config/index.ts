@@ -4,7 +4,7 @@ import { zhConfig } from './zh'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/pinia/",
+  // base: "/pinia/",
   title: "Pinia",
   description: "Intuitive, type safe, light and flexible Store for Vue",
   head: [
